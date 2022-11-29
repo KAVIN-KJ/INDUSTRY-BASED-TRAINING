@@ -1,0 +1,42 @@
+
+div1{
+    position: absolute;
+    font-size:  100px;
+    font-family: "bernard mt condensed";
+    color: rgb(1, 2, 62);
+    top: 30%;
+    left: 49%;
+  }
+  div2 {
+    position:absolute;
+    font-size: 100px;
+    font-family:"bernard mt condensed";
+    color: rgb(255, 255, 255);
+    top: 110%;
+    left: 10%;
+  }
+  div3 {
+    position: absolute;
+    font-size: 100px;
+    font-family: "bernard mt condensed";
+    top: 25%;
+    left: 0%;
+  }
+  .pasta
+  {
+    position: absolute;
+    left: 0%;
+    border-color: brown;
+  }
+  div4
+    {
+     position: absolute;
+     font-size: 100;
+     font-family: "bernard mt condensed";
+     top: 130%;
+     right: 0%;
+   }
+   .sand
+   {
+    border-color: red;
+   }
